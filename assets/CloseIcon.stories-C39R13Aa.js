@@ -1,0 +1,3 @@
+import{R as o}from"./iframe-BNpMeywT.js";import{I as r}from"./CloseIcon-DQAr5twY.js";import{S as s}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/Close",component:r,parameters:{status:{type:"stable"}}},t=a=>o.createElement(s,null,o.createElement(r,{...a})),e=t.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <CloseIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const d=["ExampleCloseIcon"];export{e as ExampleCloseIcon,d as __namedExportsOrder,p as default};

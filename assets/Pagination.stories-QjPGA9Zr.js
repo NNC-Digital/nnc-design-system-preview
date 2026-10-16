@@ -1,0 +1,7 @@
+import{R as o}from"./iframe-BNpMeywT.js";import{P as i}from"./Pagination-bSHPLKEj.js";import{S as c}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";import"./url-helpers-1hshT-U6.js";import"./Uri-CdEVWwmn.js";const E={title:"Library/Components/Pagination",component:i,parameters:{status:{type:"stable"}}},n=g=>o.createElement(c,null,o.createElement(i,{...g})),t=100,s=10,m=Math.ceil(t/s),a=n.bind({});a.args={currentPage:1,resultsPerPage:s,totalResults:t};const e=n.bind({});e.args={currentPage:Math.ceil(m/2),resultsPerPage:s,totalResults:t};const r=n.bind({});r.args={currentPage:10,resultsPerPage:s,totalResults:t};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Pagination {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Pagination {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Pagination {...args} />
+  </SBPadding>`,...r.parameters?.docs?.source}}};const x=["ExamplePaginationFirstPage","ExamplePaginationMiddlePage","ExamplePaginationLastPage"];export{a as ExamplePaginationFirstPage,r as ExamplePaginationLastPage,e as ExamplePaginationMiddlePage,x as __namedExportsOrder,E as default};

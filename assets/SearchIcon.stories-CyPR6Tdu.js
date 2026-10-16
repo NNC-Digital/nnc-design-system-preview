@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-BNpMeywT.js";import{I as a}from"./SearchIcon-P-t3fl5x.js";import{S as t}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const l={title:"Library/Icons/Search",component:a,parameters:{status:{type:"stable"}}},s=o=>r.createElement(t,null,r.createElement(a,{...o})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const d=["ExampleSearchIcon"];export{e as ExampleSearchIcon,d as __namedExportsOrder,l as default};

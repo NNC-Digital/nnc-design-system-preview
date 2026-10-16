@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-BNpMeywT.js";import{S as a}from"./Icon-2pAw7FvT.js";import{S as o}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/X (Twitter)",component:a,parameters:{status:{type:"stable"}}},s=t=>r.createElement(o,null,r.createElement(a,{...t})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Icon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleIcon"];export{e as ExampleIcon,l as __namedExportsOrder,p as default};

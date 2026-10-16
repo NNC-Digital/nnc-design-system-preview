@@ -1,0 +1,1 @@
+const e={search:{title:"Search articles",queryParamKey:"searchTerm"},services:{title:"Services",queryParamKey:"services"},articleType:{title:"Type of Article",queryParamKey:"articleType"},sortBy:{queryParamKey:"sortBy"},removeFiltersList:["searchTerm","services","articleType"]};export{e as N};

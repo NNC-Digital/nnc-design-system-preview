@@ -1,0 +1,3 @@
+import{R as t}from"./iframe-BNpMeywT.js";import{W as r}from"./WebsiteIcon-D_41eJvM.js";import{S as a}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/Website",component:r,parameters:{status:{type:"stable"}}},o=s=>t.createElement(a,null,t.createElement(r,{...s})),e=o.bind({});e.args={colourFill:"#333"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <WebsiteIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleWebsiteIcon"];export{e as ExampleWebsiteIcon,l as __namedExportsOrder,p as default};

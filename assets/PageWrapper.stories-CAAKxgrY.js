@@ -1,0 +1,3 @@
+import{R as e}from"./iframe-BNpMeywT.js";import{P as a}from"./PageWrapper-B1p_sXMx.js";import{S as p}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const g={title:"Library/Structure/PageWrapper",component:a},o=t=>e.createElement(p,null,e.createElement(a,{...t})),r=o.bind({});r.args={colour:"grey"};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <PageWrapper {...args} />
+  </SBPadding>`,...r.parameters?.docs?.source}}};const d=["ExamplePageWrapper"];export{r as ExamplePageWrapper,d as __namedExportsOrder,g as default};

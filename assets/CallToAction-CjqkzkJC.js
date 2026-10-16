@@ -1,0 +1,9 @@
+import{s as o,R as t}from"./iframe-BNpMeywT.js";import{B as s}from"./Button-S36CQVVg.js";const u=o.div`
+    margin-bottom: 30px;
+    display: block;
+
+    @media screen and (min-width: ${e=>e.theme.theme_vars.breakpoints.s}){
+        display: inline-block;
+        margin-right: 25px;
+    }
+`,a=({primary:e,size:d,text:l,url:n,isExternal:i,isDisabled:r,...p})=>t.createElement(u,null,t.createElement(s,{primary:e,size:"large",text:l,url:n,isExternal:i,isDisabled:r}));try{a.displayName="CallToAction",a.__docgenInfo={description:"A button wrapped in a div used as a slice in the content management system",displayName:"CallToAction",props:{primary:{defaultValue:null,description:"Is this the principal Button on the page?",name:"primary",required:!1,type:{name:"boolean"}},size:{defaultValue:null,description:"How large should the Button be?",name:"size",required:!1,type:{name:"enum",value:[{value:'"small"'},{value:'"medium"'},{value:'"large"'}]}},text:{defaultValue:null,description:"Button label",name:"text",required:!1,type:{name:"string"}},title:{defaultValue:null,description:"Button title optional",name:"title",required:!1,type:{name:"string"}},url:{defaultValue:null,description:"The URL for where to load when a user clicks on the Button",name:"url",required:!0,type:{name:"string"}},isExternal:{defaultValue:null,description:"Is the link to an external page?",name:"isExternal",required:!1,type:{name:"boolean"}},isDisabled:{defaultValue:null,description:"Is the button disabled?",name:"isDisabled",required:!1,type:{name:"boolean"}},onClick:{defaultValue:null,description:"onClick",name:"onClick",required:!1,type:{name:"Function"}},colourOverride:{defaultValue:null,description:"Optional override for the colour",name:"colourOverride",required:!1,type:{name:"string"}},children:{defaultValue:null,description:"Button contents",name:"children",required:!1,type:{name:"ReactNode"}}}}}catch{}export{a as C};

@@ -1,0 +1,5 @@
+import{R as o}from"./iframe-BNpMeywT.js";import{B as e}from"./BinCollection-COnKs2KY.js";import{M as a}from"./MaxWidthContainer-DfAz8Sy4.js";import{S as i}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";import"./index-Dnk_-Q5K.js";import"./FormWithLine-BJuaIBWT.js";import"./FormButton-qyf2Sj6r.js";import"./DropDownSelect-CJICILs5.js";import"./style-helpers-0zitJ_SJ.js";import"./Heading-C7kzbY1R.js";import"./Input.styles-cQ0p_tsj.js";import"./TextInput.styles-if05kC9c.js";const S={title:"Library/Components/Bin Collection",component:e,parameters:{status:{type:"stable"}}},n=r=>o.createElement(i,null,o.createElement(a,null,o.createElement(e,{...r}))),t=n.bind({});t.args={title:"Enter your postcode for bin collection details",formError:!1};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <MaxWidthContainer>
+      <BinCollection {...args} />
+    </MaxWidthContainer>
+  </SBPadding>`,...t.parameters?.docs?.source}}};const h=["ExampleBinCollectionSearch"];export{t as ExampleBinCollectionSearch,h as __namedExportsOrder,S as default};

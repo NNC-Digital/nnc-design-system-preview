@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-BNpMeywT.js";import{S as a}from"./Icon-ClDmJrXr.js";import{S as t}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/LinkedIn",component:a,parameters:{status:{type:"stable"}}},s=o=>r.createElement(t,null,r.createElement(a,{...o})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Icon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const d=["ExampleIcon"];export{e as ExampleIcon,d as __namedExportsOrder,p as default};

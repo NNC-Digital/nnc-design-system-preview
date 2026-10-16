@@ -1,0 +1,7 @@
+import{R as s}from"./iframe-BNpMeywT.js";import{C as o}from"./ContentsNavigation-CerJ6tBI.js";import{S as g}from"./SBPadding-D5LoLA9q.js";import{C as n}from"./Contents.storydata-CX8RGQdy.js";import"./preload-helper-PPVm8Dsz.js";const l={title:"Library/Structure/Contents Navigation",component:o,parameters:{status:{type:"beta"}}},r=i=>s.createElement(g,null,s.createElement(o,{...i})),a=r.bind({});a.args={contents:n,currentPath:"/second-page"};const t=r.bind({});t.args={contents:n,currentPath:"/first-page"};const e=r.bind({});e.args={contents:n,currentPath:"/fourth-page"};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <ContentsNavigation {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <ContentsNavigation {...args} />
+  </SBPadding>`,...t.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <ContentsNavigation {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const C=["ExampleContentsNavigation","ExampleContentsNavigationFirstPage","ExampleContentsNavigationLastPage"];export{a as ExampleContentsNavigation,t as ExampleContentsNavigationFirstPage,e as ExampleContentsNavigationLastPage,C as __namedExportsOrder,l as default};

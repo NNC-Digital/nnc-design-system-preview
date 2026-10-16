@@ -1,0 +1,4 @@
+import{s as d,R as o}from"./iframe-BNpMeywT.js";const r=d.div`
+  background: ${e=>e.$hasBackground?e.theme.theme_vars.colours.grey_light:"transparent"};
+  padding: ${e=>e.$hasPadding?"50px 0 20px":"0"};
+`,a=({children:e,hasBackground:n=!1,hasPadding:t=!1})=>o.createElement(r,{$hasBackground:n,$hasPadding:t,"data-testid":"FullWidthContainer"},e);try{a.displayName="FullWidthContainer",a.__docgenInfo={description:"A Full Width Container with optional padding and background",displayName:"FullWidthContainer",props:{hasBackground:{defaultValue:{value:"false"},description:"Show background colour when true",name:"hasBackground",required:!1,type:{name:"boolean"}},hasPadding:{defaultValue:{value:"false"},description:"Show top and bottom padding when true",name:"hasPadding",required:!1,type:{name:"boolean"}},children:{defaultValue:null,description:"The FullWidthContainer contents",name:"children",required:!1,type:{name:"ReactNode"}}}}}catch{}export{a as F};

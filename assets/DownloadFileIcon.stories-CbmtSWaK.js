@@ -1,0 +1,3 @@
+import{R as e}from"./iframe-BNpMeywT.js";import{I as a}from"./DownloadFileIcon-CeTHGcW8.js";import{S as t}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const i={title:"Library/Icons/Download File",component:a,parameters:{status:{type:"stable"}}},n=r=>e.createElement(t,null,e.createElement(a,{...r})),o=n.bind({});o.args={colourFill:"#111"};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <DownloadFileIcon {...args} />
+  </SBPadding>`,...o.parameters?.docs?.source}}};const m=["ExampleDownloadFileIcon"];export{o as ExampleDownloadFileIcon,m as __namedExportsOrder,i as default};

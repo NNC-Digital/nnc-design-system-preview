@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-BNpMeywT.js";import{R as t}from"./RemoveAllFilters-BP1O1qhX.js";import{S as s}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";import"./url-helpers-1hshT-U6.js";import"./Uri-CdEVWwmn.js";import"./NewsArticleFilterAccordionText-CnKYmjT5.js";const R={title:"Library/Components/Remove All Filters",component:t,parameters:{status:{type:"stable"}}},a=o=>r.createElement(s,null,r.createElement(t,{...o})),e=a.bind({});e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <RemoveAllFilters {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const g=["ExampleRemoveAllFilters"];export{e as ExampleRemoveAllFilters,g as __namedExportsOrder,R as default};

@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-BNpMeywT.js";import{L as a}from"./LinkIcon-C1ACGYut.js";import{S as t}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/Link",component:a,parameters:{status:{type:"stable"}}},n=o=>r.createElement(t,null,r.createElement(a,{...o})),e=n.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <LinkIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleLinkIcon"];export{e as ExampleLinkIcon,l as __namedExportsOrder,p as default};

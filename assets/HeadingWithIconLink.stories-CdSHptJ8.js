@@ -1,0 +1,7 @@
+import{R as t}from"./iframe-BNpMeywT.js";import{S as s}from"./SBPadding-D5LoLA9q.js";import{H as i}from"./HeadingWithIconLink-BXbTg6CT.js";import"./preload-helper-PPVm8Dsz.js";import"./Heading-C7kzbY1R.js";import"./DynamicIcon-C0gKm0XE.js";const u={title:"Library/Components/Heading with Icon Link",component:i,parameters:{status:{type:"beta"}}},r=o=>t.createElement(s,null,t.createElement(i,{...o})),e=r.bind({});e.args={iconKey:"adults",link:"#",title:"Adults"};const a=r.bind({});a.args={iconKey:null,link:"#",title:"Adults"};const n=r.bind({});n.args={iconKey:"births",link:"#",title:"Births, deaths, marriages and civil partnerships"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <HeadingWithIconLink {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <HeadingWithIconLink {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};n.parameters={...n.parameters,docs:{...n.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <HeadingWithIconLink {...args} />
+  </SBPadding>`,...n.parameters?.docs?.source}}};const h=["ExampleIconWithHeading","ExampleWithoutIcon","ExampleWithIconAndLongHeading"];export{e as ExampleIconWithHeading,n as ExampleWithIconAndLongHeading,a as ExampleWithoutIcon,h as __namedExportsOrder,u as default};

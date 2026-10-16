@@ -1,0 +1,3 @@
+import{R as e}from"./iframe-BNpMeywT.js";import{E as r}from"./EmailIcon-mZ8Xawbg.js";import{S as t}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const l={title:"Library/Icons/Email",component:r,parameters:{status:{type:"stable"}}},s=o=>e.createElement(t,null,e.createElement(r,{...o})),a=s.bind({});a.args={colourFill:"#333"};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <EmailIcon {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};const p=["ExampleEmailIcon"];export{a as ExampleEmailIcon,p as __namedExportsOrder,l as default};

@@ -1,0 +1,3 @@
+import{R as e}from"./iframe-BNpMeywT.js";import{S as a}from"./SkipToMainContent-BnipvpP7.js";import{S as o}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";const c={title:"Library/Structure/Skip to main content",component:a,parameters:{status:{type:"stable"}}},r=n=>e.createElement(o,null,e.createElement(a,{...n})),t=r.bind({});t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SkipToMainContent {...args} />
+  </SBPadding>`,...t.parameters?.docs?.source}}};const d=["ExampleSkipToMainContent"];export{t as ExampleSkipToMainContent,d as __namedExportsOrder,c as default};

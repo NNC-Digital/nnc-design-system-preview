@@ -1,0 +1,5 @@
+import{R as e}from"./iframe-BNpMeywT.js";import{D as t,a as i}from"./DirectoryAddToShortList-C7ZGiGgg.js";import{S as s}from"./SBPadding-D5LoLA9q.js";import"./preload-helper-PPVm8Dsz.js";import"./UseLocalStorage-DuLyX1N_.js";import"./CloseIcon-DQAr5twY.js";import"./HeartIcon-3Tfw5PC6.js";const y={title:"Library/Directory/DirectoryAddToShortList",component:t,parameters:{status:{type:"beta"}}},a=o=>e.createElement(s,null,e.createElement(i,null,e.createElement(t,{...o}))),r=a.bind({});r.args={id:"abc111",name:"Service name",snippet:"West Northamptonshire Council is the single unitary council responsible for providing a range of public services to residents and businesses in the areas of Daventry,..."};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <DirectoryShortListProvider>
+      <DirectoryAddToShortList {...args} />
+    </DirectoryShortListProvider>
+  </SBPadding>`,...r.parameters?.docs?.source}}};const h=["ExampleDirectoryAddToShortList"];export{r as ExampleDirectoryAddToShortList,h as __namedExportsOrder,y as default};

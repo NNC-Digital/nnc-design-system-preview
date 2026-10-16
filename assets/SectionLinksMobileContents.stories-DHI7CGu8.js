@@ -1,0 +1,5 @@
+import{R as t}from"./iframe-BNpMeywT.js";import{S as i}from"./SectionLinksMobileContents-DH9qnLo8.js";import{P as a}from"./PageMain-HiY_E30G.js";import{M as s}from"./MaxWidthContainer-DfAz8Sy4.js";import"./preload-helper-PPVm8Dsz.js";const d={title:"library/Structure/Section Links Mobile Contents",parameters:{status:{type:"stable"}}},r=n=>t.createElement(a,null,t.createElement(s,null,t.createElement(i,{...n})," Only viewable at mobile screen size or via the keyboard")),e=r.bind({});e.args={sectionLinksArray:[{title:"Your bins and rubbish",id:"your-bins-and-rubbish"},{title:"Street cleaning",id:"street-cleaning"},{title:"Business, commercial and clinical waste",id:"business-commercial-and-clinical-waste"}]};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <PageMain>
+    <MaxWidthContainer>
+      <SectionLinksMobileContents {...args} /> Only viewable at mobile screen size or via the keyboard
+    </MaxWidthContainer>
+  </PageMain>`,...e.parameters?.docs?.source}}};const p=["SectionLinksMobileContentsExample"];export{e as SectionLinksMobileContentsExample,p as __namedExportsOrder,d as default};
