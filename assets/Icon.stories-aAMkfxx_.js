@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-CAFc311g.js";import{S as e}from"./Icon-PcQIfQVj.js";import{S as o}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const i={title:"Library/Icons/Instagram",component:e,parameters:{status:{type:"stable"}}},s=t=>r.createElement(o,null,r.createElement(e,{...t})),a=s.bind({});a.args={colourFill:"#111"};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Icon {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};const l=["ExampleInstagramIcon"];export{a as ExampleInstagramIcon,l as __namedExportsOrder,i as default};

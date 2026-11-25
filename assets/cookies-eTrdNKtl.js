@@ -1,0 +1,1 @@
+const r="fn-cookie",c=n=>{if(typeof document>"u")return"";let e=document.cookie,i=n+"=",o=e.indexOf(i);if(o==-1)return null;var t=e.indexOf(";",o);return t==-1&&(t=e.length),decodeURI(e.substring(o+i.length,t))},u=n=>{if(typeof n=="boolean")return n;const e=c(r);return e!==null?e.includes('"cookiesAccepted":true'):!1};export{r as c,c as g,u as w};

@@ -1,0 +1,13 @@
+import{R as l}from"./iframe-CAFc311g.js";import{N as n}from"./NewsArticleFeaturedBlock-C2zfHzy4.js";import{M as p}from"./MaxWidthContainer-C1N-QUOI.js";import{N as c}from"./NewsArticleFeaturedBlock.storydata-Be2E0_P1.js";import"./preload-helper-PPVm8Dsz.js";import"./LazyImage-D279gvB3.js";import"./NewsArticleDate-DyDoE4cV.js";import"./dayjs.min-CBXYjzWx.js";import"./DisplayDate-GbhlCpJU.js";import"./Heading-DiI9px6I.js";import"./Button-BMYKF9hv.js";import"./Row-CGzcJHjh.js";import"./Column-DMOuYhYK.js";const F={title:"Library/Structure/News Article Featured Block",component:n,parameters:{status:{type:"stable"}}},e=m=>l.createElement(p,null,l.createElement(n,{...m})),r=e.bind({});r.args={articles:c,viewAllLink:"/"};const a=e.bind({});a.args={articles:[]};const t=e.bind({});t.args={articles:c,withoutTitle:!0,viewAllLink:""};const s=e.bind({});s.args={articles:c.slice(0,3)};const o=e.bind({});o.args={articles:c.slice(0,2)};const i=e.bind({});i.args={articles:c.slice(0,1)};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...r.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...a.parameters?.docs?.source}}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...t.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...s.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...o.parameters?.docs?.source}}};i.parameters={...i.parameters,docs:{...i.parameters?.docs,source:{originalSource:`args => <MaxWidthContainer>
+    <NewsArticleFeaturedBlock {...args} />
+  </MaxWidthContainer>`,...i.parameters?.docs?.source}}};const W=["ExampleNewsArticleFeaturedBlock","ExampleNoNewsArticleFeaturedBlock","ExampleNoTitleOrButton","Example3Articles","Example2Articles","Example1Article"];export{i as Example1Article,o as Example2Articles,s as Example3Articles,r as ExampleNewsArticleFeaturedBlock,a as ExampleNoNewsArticleFeaturedBlock,t as ExampleNoTitleOrButton,W as __namedExportsOrder,F as default};

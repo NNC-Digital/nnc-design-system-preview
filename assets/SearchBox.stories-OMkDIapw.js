@@ -1,0 +1,11 @@
+import{R as m}from"./iframe-CAFc311g.js";import{S as i}from"./SearchBox-DJYANxrQ.js";import{S as d}from"./SBPadding-Am7yvgMe.js";import{E as t}from"./SearchBox.storydata-ClJQgt8s.js";import{E as n}from"./CustomSearch.storydata-DNmpZ_8q.js";import"./preload-helper-PPVm8Dsz.js";import"./style-helpers-DpV8nztG.js";import"./LazyImage-D279gvB3.js";import"./Column-DMOuYhYK.js";import"./Row-CGzcJHjh.js";import"./Button-BMYKF9hv.js";import"./Heading-DiI9px6I.js";import"./CustomSearch-BAKo2gOP.js";import"./Input-CI5ZSd7E.js";import"./Input.styles-BOS0FYoR.js";const I={title:"Library/Slices/SearchBox",component:i,parameters:{status:{type:"beta"}}},c=p=>m.createElement(d,null,m.createElement(i,{...p})),a=c.bind({});a.args=t;const r=c.bind({});r.args={...t,searchBoxLinkIsPrimary:!1};const e=c.bind({});e.args={...t,customSearch:{...n,hasHiddenLabel:!1}};const o=c.bind({});o.args={...t,imageLarge:null,imageSmall:null};const s=c.bind({});s.args={...t,searchBoxLink:null,customSearch:{...n,hasHiddenLabel:!1}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchBox {...args} />
+  </SBPadding>`,...a.parameters?.docs?.source}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchBox {...args} />
+  </SBPadding>`,...r.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchBox {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchBox {...args} />
+  </SBPadding>`,...o.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <SearchBox {...args} />
+  </SBPadding>`,...s.parameters?.docs?.source}}};const _=["ExampleSearchBox","ExampleSearchBoxSecondaryLink","ExampleSearchBoxWithLabel","ExampleSearchBoxWithoutImage","ExampleSearchBoxWithoutLink"];export{a as ExampleSearchBox,r as ExampleSearchBoxSecondaryLink,e as ExampleSearchBoxWithLabel,o as ExampleSearchBoxWithoutImage,s as ExampleSearchBoxWithoutLink,_ as __namedExportsOrder,I as default};

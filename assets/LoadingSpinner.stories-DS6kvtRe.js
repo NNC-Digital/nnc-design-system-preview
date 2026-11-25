@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-CAFc311g.js";import{L as a}from"./LoadingSpinner-Dc8Iex53.js";import{S as o}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const d={title:"Library/Components/Loading Spinner",component:a,parameters:{status:{type:"stable"}}},t=n=>r.createElement(o,null,r.createElement(a,{...n})),e=t.bind({});e.args={};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <LoadingSpinner {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const c=["ExampleLoadingSpinner"];export{e as ExampleLoadingSpinner,c as __namedExportsOrder,d as default};

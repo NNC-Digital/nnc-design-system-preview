@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-CAFc311g.js";import{S as a}from"./Icon-CWXagQnM.js";import{S as t}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const i={title:"Library/Icons/Facebook",component:a,parameters:{status:{type:"stable"}}},s=o=>r.createElement(t,null,r.createElement(a,{...o})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Icon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleIcon"];export{e as ExampleIcon,l as __namedExportsOrder,i as default};

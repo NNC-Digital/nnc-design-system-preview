@@ -1,0 +1,3 @@
+import{R as a}from"./iframe-CAFc311g.js";import{R as r}from"./RemovableTag-BWbQsyW6.js";import{S as t}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const c={title:"Library/components/Removable Tag",component:r,parameters:{status:{type:"stable"}}},s=o=>a.createElement(t,null,a.createElement(r,{...o})),e=s.bind({});e.args={label:"Bins",value:"bins"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <RemovableTag {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const i=["ExampleRemovableTag"];export{e as ExampleRemovableTag,i as __namedExportsOrder,c as default};

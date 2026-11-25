@@ -1,0 +1,3 @@
+import{R as t}from"./iframe-CAFc311g.js";import{I as r}from"./Input-CI5ZSd7E.js";import{S as s}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";import"./Input.styles-BOS0FYoR.js";const d={title:"Library/Components/Input",component:r,parameters:{status:{type:"stable"}}},o=a=>t.createElement(s,null,t.createElement(r,{...a})),e=o.bind({});e.args={};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <Input {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["Example"];export{e as Example,l as __namedExportsOrder,d as default};

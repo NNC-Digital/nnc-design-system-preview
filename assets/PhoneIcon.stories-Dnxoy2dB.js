@@ -1,0 +1,3 @@
+import{R as o}from"./iframe-CAFc311g.js";import{P as r}from"./PhoneIcon-Bcq4HqA2.js";import{S as t}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const i={title:"Library/Icons/Phone",component:r,parameters:{status:{type:"stable"}}},n=a=>o.createElement(t,null,o.createElement(r,{...a})),e=n.bind({});e.args={colourFill:"#333"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <PhoneIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExamplePhoneIcon"];export{e as ExamplePhoneIcon,l as __namedExportsOrder,i as default};

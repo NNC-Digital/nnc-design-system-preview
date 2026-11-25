@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-CAFc311g.js";import{H as a}from"./HeartIcon-Bjqf-iKE.js";import{S as o}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const i={title:"Library/Icons/Heart",component:a,parameters:{status:{type:"stable"}}},s=t=>r.createElement(o,null,r.createElement(a,{...t})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <HeartIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleHeartIcon"];export{e as ExampleHeartIcon,l as __namedExportsOrder,i as default};

@@ -1,0 +1,1 @@
+const s={a:"1319.87",b:"1539.83",c:"1759.82",d:"1979.79",e:"2419.75",f:"2859.68",g:"3299.66",h:"3959.58"},a=[{parish:"Abthorpe",bands:s},{parish:"Adstone",bands:s},{parish:"Alderton",bands:s},{parish:"Althorp",bands:s},{parish:"Arthingworth",bands:s},{parish:"Ashby Saint Ledgers",bands:s}];export{a as e};

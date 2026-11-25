@@ -1,0 +1,3 @@
+import{R as r}from"./iframe-CAFc311g.js";import{P as a}from"./PinIcon-Pb35BenK.js";import{S as o}from"./SBPadding-Am7yvgMe.js";import"./preload-helper-PPVm8Dsz.js";const p={title:"Library/Icons/Pin",component:a,parameters:{status:{type:"stable"}}},s=t=>r.createElement(o,null,r.createElement(a,{...t})),e=s.bind({});e.args={colourFill:"#111"};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`args => <SBPadding>
+    <PinIcon {...args} />
+  </SBPadding>`,...e.parameters?.docs?.source}}};const l=["ExampleHeartIcon"];export{e as ExampleHeartIcon,l as __namedExportsOrder,p as default};
